@@ -21,4 +21,4 @@ Clone this repository:
 
 ```bash
 git clone https://github.com/Vignesh-Kandem/Test-Project-2
-cd Test-Project-2
+cd Test-Project-1
